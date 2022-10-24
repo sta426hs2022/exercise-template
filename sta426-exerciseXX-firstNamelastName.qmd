@@ -1,0 +1,42 @@
+---
+title: "Exercise XX"
+author: "Firstname Lastname"
+date: today
+format: 
+    html:
+        self-contained: true
+editor_options: 
+    chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Load packages
+
+```{r }
+library(limma) # replace this with packages you will use
+```
+
+## Run some things
+
+```{r }
+x <- rnorm(100) # replace this with any code that needs to run at start; otherwise, delete section
+```
+
+
+## Question 1
+
+** Here, cut-and-paste the text of the question to answer **
+
+Replace the text here with some text to discuss your solution. 
+
+```{r }
+x <- 
+```
+
+Replace the text here with some further text to discuss my solution, perhaps after a plot / table / some code.
+
+## Question 2
+
+..
