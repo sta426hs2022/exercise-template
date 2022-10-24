@@ -27,12 +27,13 @@ x <- rnorm(100) # replace this with any code that needs to run at start; otherwi
 
 ## Question 1
 
-** Here, cut-and-paste the text of the question to answer **
+*Here, cut-and-paste the text of the question to answer*
 
 Replace the text here with some text to discuss your solution. 
 
 ```{r }
-x <- 
+mean(x)-median(x)
+hist(x,30)
 ```
 
 Replace the text here with some further text to discuss my solution, perhaps after a plot / table / some code.
